@@ -32,7 +32,7 @@ A modern, production-ready e-commerce dashboard built with React, TypeScript, Re
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](https://vercel-url.vercel.app)**
+🔗 **[View Live Demo](https://shophub-ecommerce-rho.vercel.app/)**
 
 ## 📸 Screenshots
 
